@@ -1,11 +1,3 @@
-/*
-Style Priority: (bottom->top)
-html tag - use for very general styling (like font-family)
-class - BEST! use to customize
-id - use only in Sections or for e.g. bootstrap items that require id
-style (inline) - AVOID!
-*/
-
 html {
   scroll-behavior: smooth;
 }
